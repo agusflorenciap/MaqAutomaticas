@@ -5,4 +5,4 @@ El proyecto consiste en fabricar una máquina expendedora de gaseosas y una máq
 
 <h2>Lenguaje y entorno</h2>
 
-- <b>Java en Eclipse</b> 
+- <b>Java en Eclipse.</b> 
