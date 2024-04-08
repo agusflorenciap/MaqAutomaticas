@@ -6,3 +6,14 @@ El proyecto consiste en fabricar una máquina expendedora de gaseosas y una máq
 <h2>Lenguaje y entorno</h2>
 
 - <b>Java en Eclipse</b> 
+<br />
+
+<h1>[ENG] Case Study: Vending Machines</h1>
+
+<h2>Description</h2>
+The project involves manufacturing a soda vending machine and a machine for dispensing change from bills into coins. The intention is for the developed components to serve mostly for both machines, so the goal is to simulate their operation using an object-oriented application, where each class represents a component of these machines. A list of use cases was proposed, and a class diagram was created, with each machine also treated as a class (Composition Model).
+<br />
+
+<h2>Language and environment</h2>
+
+- <b>Java in Eclipse </b>
